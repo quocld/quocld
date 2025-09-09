@@ -2,7 +2,7 @@
 
 ### 🚀About me 
 
-🧠 Hello! I'm Quoc, a Web App Engineer :)
+🧠 Hello! I'm Quoc, a Software Engineer :)
 
 ### My Streak 🌱
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=quocld)  
