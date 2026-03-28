@@ -1,4 +1,4 @@
-🧠 Hello! I'm Ryan, a Software Engineer :)
+🧠 Hello! I'm Ryan, an engineer who built great software :)
 
 ### My Streak 🌱
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=quocld)  
